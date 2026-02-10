@@ -73,7 +73,7 @@ const scrollToContent = () => {
         <Heart class="hero-icon" :size="64" fill="currentColor" />
       </div>
       
-      <h1 class="hero-title">Maicon & Bruna</h1>
+      <h1 class="hero-title">Bruna & Maicon</h1>
       <p class="hero-subtitle">Escrevendo nossa história juntos há</p>
       
       <div class="counter-container">
